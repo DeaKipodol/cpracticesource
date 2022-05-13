@@ -1,0 +1,7 @@
+//조건식도 for문에서 생략 가능하다. 생략되면 조건식의 값은 항상 참으로 결정된다.
+#include<stdio.h>
+
+int main(){
+	int i=1;
+	int sum=0;
+} 
